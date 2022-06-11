@@ -1,5 +1,4 @@
 *.class
-*.xml
 *.lst
 .DS_Store
 *.exe
