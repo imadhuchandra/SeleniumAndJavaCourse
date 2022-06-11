@@ -1,4 +1,10 @@
-
 *.class
 *.xml
 *.lst
+.DS_Store
+*.exe
+.settings/
+.project
+.classpath
+.idea/
+target/
